@@ -3,6 +3,6 @@
 
 效果图：
 
-![image](https://github.com/BlueTopsky/WeChat/blob/master/WeChat1/IMG_6464.PNG)
-![image](https://github.com/BlueTopsky/WeChat/blob/master/WeChat1/IMG_6465.PNG)
-![image](https://github.com/BlueTopsky/WeChat/blob/master/WeChat1/IMG_6467.PNG)
+![image](https://github.com/BlueTopsky/DouBan_flutter/blob/master/WechatIMG2.png)
+![image](https://github.com/BlueTopsky/DouBan_flutter/blob/master/WechatIMG3.png)
+![image](https://github.com/BlueTopsky/DouBan_flutter/blob/master/WechatIMG4.png)
